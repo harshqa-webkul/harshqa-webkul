@@ -13,14 +13,6 @@
 
 <br/>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshqa-webkul&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 💼 About Me
 
 - 🔭 Currently working as a **Playwright Automation Tester** at **Webkul** <img src="https://webkul.com/wp-content/themes/webkul-2020/images/brand-kit/brand-kit-logo/squareDark/png/square-dark-16-png.png" alt="Webkul Logo" width="20" height="20" valign="middle"/>
@@ -49,12 +41,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshqa-webkul&show_icons=true&locale=en&theme=radical&hide_border=true" alt="harshqa-webkul stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshqa-webkul&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="harshqa-webkul top langs" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=harshqa-webkul&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="harshqa-webkul stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshqa-webkul&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="harshqa-webkul top langs" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshqa-webkul&theme=radical&hide_border=true" alt="harshqa-webkul streak stats" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshqa-webkul&theme=tokyonight&hide_border=true" alt="harshqa-webkul streak stats" width="70%" />
 </p>
 
 ## 📈 Contribution Graph
